@@ -1,6 +1,6 @@
 # Simple Shopping Website
 
-![alt text](https://raw.githubusercontent.com/shahgauravraj/ExpenseMonitor/master/assets/images/Web%201920%20%E2%80%93%201.png)
+![alt text](https://raw.githubusercontent.com/shahgauravraj/SimpleWebPage/master/assets/images/SimpleWebPage.jpg)
 
 This is a modern web application build using HTML and CSS basics having very few features. All the images and backgrounds used for this website are either downloaded from web or designed using Adobe XD(for example, the feature image).
 
